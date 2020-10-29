@@ -66,14 +66,24 @@ Method
 3. KNN
 4. SVM
         
+        
+## Architectures
+
+![Socar_project-Page-2](https://user-images.githubusercontent.com/68367214/97545022-bf38cd80-1a0d-11eb-84a7-30a7d3d5a116.png)
+
+
 ## Details
 
 * 분류기법 적용예정.
 
+ex) EDA
 
-## Architectures
+Not Fraud
+![notfraud_repair_cost](https://user-images.githubusercontent.com/68367214/97549401-b0551980-1a13-11eb-8017-7da1a5772841.PNG)
 
-![Socar_project-Page-2](https://user-images.githubusercontent.com/68367214/97545022-bf38cd80-1a0d-11eb-84a7-30a7d3d5a116.png)
+Fraud
+![fraud_repair_cost](https://user-images.githubusercontent.com/68367214/97549509-d24e9c00-1a13-11eb-9d37-d9a3e56f2c30.PNG)
+
 
 
 ## Project Improvements
@@ -104,4 +114,4 @@ Method
 ## learning materials
 
 1. Socar 약관링크 : https://www.socar.kr/terms
-2. 
+2. 머신러닝 기법책(?)
