@@ -1,6 +1,6 @@
 # Socar Fraud Detection Project
 
-Teams: 이진서, 임상우, 김재욱 (Fastcampus Datascience school 14th)
+Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 
 ![image](https://user-images.githubusercontent.com/68367214/97532893-a115a200-19fa-11eb-9049-2dcadfc44eac.png)
@@ -80,18 +80,24 @@ Method
 
 * 분류기법 적용예정.
 
-ex) EDA
 
-Not Fraud
+* 사기 탐지 정확도 평가 단계 Point :
 
-![notfraud_repair_cost](https://user-images.githubusercontent.com/68367214/97549401-b0551980-1a13-11eb-8017-7da1a5772841.PNG)
+본 프로젝트와 같은 이진 분류 문제에서는 어떤 경우를 Positive로 정하고,
+나머지 경우를 Negative로 할 것인지를 정하는 것이 중요.
 
-Fraud
+암을 진단하는 사례에서 정상을 Positive로 설정한다면, 모든 환자를 정상으로 진단해도 Accuracy가 99%가 나온다.
+이 경우 1% 암 환자 진단을 놓치게 되므로 의미가 없다.
 
-![fraud_repair_cost](https://user-images.githubusercontent.com/68367214/97549509-d24e9c00-1a13-11eb-9d37-d9a3e56f2c30.PNG)
+그러므로 본 사기탐지 프로젝트에서도 Fraud의 경우를 Positive로 설정하고, 나머지 정상을 Negative로 설정한다.
 
+False Negative(미탐)이 높아지면 사기 손실 비용이 커지고,
+정상을 사기로 잘못 분류하는 False Positive(오탐)이 높아지면 조사과정에서 고객 불만이 커진다.
 
-![Tradeoff](https://user-images.githubusercontent.com/68367214/97599562-7a338c00-1a4b-11eb-8642-85b5c0572832.PNG)
+적정 FN과 FP를 설정하기 위해서는 기업의 정책과 현장사례들을 통하여 조정하는 과정이 필요.
+   
+=> Trade-off 관계 내에서, 이익 극대화 목적에 부합하는 최적 지점 확보 노력.
+
 
 ## Project Improvements
 
@@ -112,10 +118,15 @@ Fraud
 => 반납 지연시간 또는 요금 연체 횟수에 따른 칼럼도 추후 추가 Feature로 수집이 된다면 예측에 도움이 될 것.
 
 
-* 참고사항 :
+* 프로젝트 향후 개선 참고사항 :
 
-인공지능에 의한 불평등과 차별요소 제거필요
-- 인종, 지역, 성별에 따른 차별 위험요소제거
+1) 인공지능에 의한 불평등과 차별요소 제거가 필요하다.
+- 인종, 지역, 성별에 따른 차별 위험요소 존재
+
+2) 사기탐지에는 개별 사건에 대한 사기 확률과 함께 이 확률이 나타난 근거 또한 개연성있게 제시되어야 한다.
+
+3) Fraud의 패턴은 계속해서 변하므로, 정확도를 주기적으로 모니터링하여 재학습하는 과정이 필요하다.
+
 
 
 ## Presentation Resourses
