@@ -37,6 +37,8 @@ Teams: 이진서, 임상우, 김재욱 (Fastcampus Datascience school 14th)
 
 ## Goals
 
+![Socar_project-Page-3](https://user-images.githubusercontent.com/68367214/97603219-891c3d80-1a4f-11eb-9693-9f43ab8b0c99.png)
+
 * 최초 사고 식별시, 머신러닝의 여러기법을 통해 Fraud 일 가능성이 높은 경우, 담당자에게 고위험군임을 알리는 서비스 구축.
 
 Method 
@@ -45,6 +47,8 @@ Method
 2. 챗봇 운영시 최초 상담 시작시, 상담원에게 메시지 노출.
 
 (현재 쏘카에서는 콜을 통해서만 사건/사고를 접수하지만, 챗봇을 통한 문의에도 적용가능하도록 구현.)
+
+
 
 
 ## Execution
@@ -59,7 +63,7 @@ Method
 
 ## Machine Learning Model
 
-* Machine Leaning - Supervised Leaning - Classification
+* Machine Leaning - Supervised Learning - Classification
 
 1. Decision Tree
 2. Logistic Regression
@@ -79,12 +83,15 @@ Method
 ex) EDA
 
 Not Fraud
+
 ![notfraud_repair_cost](https://user-images.githubusercontent.com/68367214/97549401-b0551980-1a13-11eb-8017-7da1a5772841.PNG)
 
 Fraud
+
 ![fraud_repair_cost](https://user-images.githubusercontent.com/68367214/97549509-d24e9c00-1a13-11eb-9d37-d9a3e56f2c30.PNG)
 
 
+![Tradeoff](https://user-images.githubusercontent.com/68367214/97599562-7a338c00-1a4b-11eb-8642-85b5c0572832.PNG)
 
 ## Project Improvements
 
@@ -102,7 +109,14 @@ Fraud
   2. 회원이 서비스 요금을 연체하여 회사가 상당기간 동안 2회 이상 납부를 최고하였음에도 계속 연체하고 있는 경우
 
  
-=> 반납시간 또는 연체 횟수에 따른 칼럼도 추후 추가 Feature로 수집이 된다면 예측에 도움이 될 것.
+=> 반납 지연시간 또는 요금 연체 횟수에 따른 칼럼도 추후 추가 Feature로 수집이 된다면 예측에 도움이 될 것.
+
+
+* 참고사항 :
+
+인공지능에 의한 불평등과 차별요소 제거필요
+- 인종, 지역, 성별에 따른 차별 위험요소제거
+
 
 ## Presentation Resourses
 
@@ -113,5 +127,5 @@ Fraud
 
 ## learning materials
 
-1. Socar 약관링크 : https://www.socar.kr/terms
-2. 머신러닝 기법책(?)
+1. Socar 약관 : https://www.socar.kr/terms
+2. Hands-On Machine Learning with Scikit-Learn and TensorFlow / Aurélien Géron
