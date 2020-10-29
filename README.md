@@ -56,23 +56,24 @@ Teams: 이진서, 임상우, 김재욱 (Fastcampus Datascience school 14th)
 
 ## Goals
 
-최초 사고 발생 이후의 콜 발생시, 머신러닝의 여러기법을 통해 Fraud 일 가능성이 높은 Case인 경우, 
-Python 내의 Flask 패키지를 통해 담당자에게 고위험군임을 알리는 서비스 구축.
+최초 사고 식별시, 머신러닝의 여러기법을 통해 Fraud 일 가능성이 높은 경우, 담당자에게 고위험군임을 알리는 서비스 구축.
 
 * Method 
 
 1. 상담원 콜 발생시, 연동 웹페이지 상에서 메시지 노출
 2. 챗봇 운영시 최초 상담 시작시, 상담원에게 메시지 노출
 
-(현재 쏘카에서는 1661-4977을 통한 콜을 통해서만 사건/사고를 접수하지만, 챗봇을 통한 문의에도 적용가능하도록 구현.)
+(현재 쏘카에서는 콜을 통해서만 사건/사고를 접수하지만, 챗봇을 통한 문의에도 적용가능하도록 구현.)
 
 
 ## Execution
 
 1. 데이터 전처리
 2. EDA
-3. 분석 모델 적용
-4. 서비스 구축
+3. 분석 모델 적용 및 인사이트 도출
+4. Monge DB를 통한 데이터베이스 구축
+5. 1) Flask를 통한 웹페이지 서비스
+   2) Chatbot 서비스
 
 
 ## Machine Learning Model
@@ -83,12 +84,22 @@ Machine Leaning - Supervised Leaning - Classification
 2. Logistic Regression
 3. KNN
 4. SVM
-
-
-## Socar Service System review                 
         
+## Details
 
-* 추가 Feature 제안내용 (추후 시스템 구축에 도움이 될만한 칼럼 제시하면 좋을듯) :
+
+
+
+## Architectures
+
+다이어그램 제작 링크 (웹에서 권한 공유하여 수정가능) : https://app.diagrams.net/#G1QTiFJettkl6p3ymERp04PKKDLXpOJqgE
+
+
+## Project Improvements
+
+![e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-05-24-e1848be185a9e18492e185ae-6-20-09](https://user-images.githubusercontent.com/68367214/97540127-86e1c100-1a06-11eb-97d1-e051e3caca74.png)
+
+* 이후 분석에 필요한 추가 Feature 제안내용 :
     
     - 제12조 자동차 미반납에 대한 조치
 ① 회사는 회원이 대여 기간 종료 시로부터 3시간을 경과하여도 반납 장소에 자동차를 반납하지 아니하거나 
@@ -101,12 +112,6 @@ Machine Leaning - Supervised Leaning - Classification
  
 => 반납시간 또는 연체 횟수에 따른 칼럼도 추후 추가 Feature로 수집이 된다면 예측에 도움이 될 듯
 
-
-## Architectures
-
-다이어그램 제작 링크 (웹에서 권한 공유하여 수정가능) : https://app.diagrams.net/#G1QTiFJettkl6p3ymERp04PKKDLXpOJqgE
-
-
 ## Presentation Resourses
 
 1. Sweetviz
@@ -116,4 +121,4 @@ Machine Leaning - Supervised Leaning - Classification
 
 ## learning materials
 
-* 쏘카 약관링크 : https://www.socar.kr/terms
+1. Socar 약관링크 : https://www.socar.kr/terms
