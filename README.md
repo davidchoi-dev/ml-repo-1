@@ -97,7 +97,8 @@ Machine Leaning - Supervised Leaning - Classification
 
 ## Project Improvements
 
-![e18489e185b3e1848fe185b3e18485e185b5e186abe18489e185a3e186ba-2018-05-24-e1848be185a9e18492e185ae-6-20-09](https://user-images.githubusercontent.com/68367214/97540127-86e1c100-1a06-11eb-97d1-e051e3caca74.png)
+![Socar_project](https://user-images.githubusercontent.com/68367214/97540316-d1fbd400-1a06-11eb-987f-cfc3fe6df66b.png)
+
 
 * 이후 분석에 필요한 추가 Feature 제안내용 :
     
