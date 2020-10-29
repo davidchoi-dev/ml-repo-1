@@ -92,7 +92,7 @@ Machine Leaning - Supervised Leaning - Classification
 
 ## Architectures
 
-다이어그램 제작 링크 (웹에서 권한 공유하여 수정가능) : https://app.diagrams.net/#G1QTiFJettkl6p3ymERp04PKKDLXpOJqgE
+![Socar_project-Page-2](https://user-images.githubusercontent.com/68367214/97545022-bf38cd80-1a0d-11eb-84a7-30a7d3d5a116.png)
 
 
 ## Project Improvements
@@ -116,7 +116,7 @@ Machine Leaning - Supervised Leaning - Classification
 ## Presentation Resourses
 
 1. Sweetviz
-2. Draw.io
+2. Draw.io (다이어그램 제작 링크-웹에서 권한 공유하여 수정가능) : https://app.diagrams.net/#G1QTiFJettkl6p3ymERp04PKKDLXpOJqgE
 3. Tableau
 
 
