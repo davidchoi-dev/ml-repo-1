@@ -80,6 +80,7 @@ Method
 
 * 분류기법 적용예정.
 
+![Screen_Shot_2020-10-31_at_9 59 22_AM](https://user-images.githubusercontent.com/68367214/97803572-9aeb2400-1c8d-11eb-9bbe-424de32be903.png)
 
 * 사기 탐지 정확도 평가 단계 Point :
 
