@@ -80,7 +80,16 @@ Method
 
 * 분류기법 적용예정.
 
+-> Oversampling 이전 결과
+
+![111](https://user-images.githubusercontent.com/68367214/97821341-6c089880-1cf5-11eb-9644-71fbffe65efe.PNG)
+
+-> Oversampling 이후 결과
+
 ![Screen_Shot_2020-10-31_at_9 59 22_AM](https://user-images.githubusercontent.com/68367214/97803572-9aeb2400-1c8d-11eb-9bbe-424de32be903.png)
+
+-> Over fitting 으로 보여지고 이에 대해 데이터 표준화, 일반화 작업예정.
+
 
 * 사기 탐지 정확도 평가 단계 Point :
 
