@@ -46,7 +46,7 @@ Extended Models
 - BalancedRandomForestClassifier
 - RUSBoostClassifier
 
-* with Raw Data
+with Raw Data
 
 Step 2. Preprocess
 
@@ -54,18 +54,18 @@ with One-Hot-Encoding
 with Train/Test Split
 
 
-Step 2. Hyperparameter Tuning 
+Step 3. Hyperparameter Tuning 
 
-* with Gridsearch (Recall Priority)
-
-
-Step 3. Imbalanced Data Tuning
-
-* with RobustScaler (For Overfitting)
-* with Resampling (Oversampling, Undersampling, Under+oversampling)
+with Gridsearch (Recall Priority)
 
 
-Step 4. Validation
+Step 4. Imbalanced Data Tuning
+
+with RobustScaler (For Overfitting)
+with Resampling (Oversampling, Undersampling, Under+oversampling)
+
+
+Step 5. Validation
 
 Original Models
 - Logistic Regression
@@ -77,11 +77,11 @@ Extended Models
 - BalancedRandomForestClassifier
 - RUSBoostClassifier
 
-* with Resampling
-* with StratifiedKFold
+with Resampling
+with StratifiedKFold
 
  
-Step 5. Conclusion
+Step 6. Conclusion
 
 
 ## Presentation Resourses
