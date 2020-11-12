@@ -5,8 +5,7 @@ Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 
 ## Goals
-
-![Socar_project-Page-3](https://user-images.githubusercontent.com/68367214/98896242-dd153080-24eb-11eb-86ff-fead8bf79202.png)
+![Socar_project-Page-4 (3)](https://user-images.githubusercontent.com/68367214/98901948-08058180-24f8-11eb-97b2-fa69c826d7b4.png)
 
 * Build Fraud Detection ML Model based on Past Data-set.
 
@@ -33,9 +32,6 @@ Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 5. BalancedRandomForestClassifier
 6. RUSBoostClassifier
 
-## Architectures
-
-![Socar_project-Page-4 (3)](https://user-images.githubusercontent.com/68367214/98901948-08058180-24f8-11eb-97b2-fa69c826d7b4.png)
 
 
 ## Details
