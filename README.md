@@ -22,6 +22,9 @@ Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 ## Machine Learning Model
 
+![그림1](https://user-images.githubusercontent.com/68367214/98902177-86faba00-24f8-11eb-92cc-5edd15d121ab.png)
+
+
 1. LogisticRegression
 2. SupportVectorMachine
 3. RandomForest
@@ -86,7 +89,8 @@ Extended Models
 
  
 Step 6. Conclusion
-
+- How to set Benchmarks
+- Interpretation
 
 ## Presentation Resourses
 
