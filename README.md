@@ -32,6 +32,9 @@ Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 ## Architectures
 
+![Socar_project-Page-4 (3)](https://user-images.githubusercontent.com/68367214/98901948-08058180-24f8-11eb-97b2-fa69c826d7b4.png)
+
+
 ## Details
 
 Step 1. Baseline Set 
