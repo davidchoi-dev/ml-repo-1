@@ -46,23 +46,24 @@ Extended Models
 - BalancedRandomForestClassifier
 - RUSBoostClassifier
 
-** with Raw Data
+ + with Raw Data
 
 Step 2. Preprocess
 
-** with One-Hot-Encoding
-** with Train/Test Split
+
+ + with One-Hot-Encoding
+ + with Train/Test Split
 
 
 Step 3. Hyperparameter Tuning 
 
-** with Gridsearch (Recall Priority)
+ + with Gridsearch (Recall Priority)
 
 
 Step 4. Imbalanced Data Tuning
 
-** with RobustScaler (For Overfitting)
-** with Resampling (Oversampling, Undersampling, Under+oversampling)
+ + with RobustScaler (For Overfitting)
+ + with Resampling (Oversampling, Undersampling, Under+oversampling)
 
 
 Step 5. Validation
@@ -77,8 +78,8 @@ Extended Models
 - BalancedRandomForestClassifier
 - RUSBoostClassifier
 
-** with Resampling
-** with StratifiedKFold
+ + with Resampling
+ + with StratifiedKFold
 
  
 Step 6. Conclusion
