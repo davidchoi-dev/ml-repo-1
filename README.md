@@ -62,7 +62,7 @@ Step 3. Hyperparameter Tuning
 Step 4. Imbalanced Data Tuning
 
  + with RobustScaler (For Overfitting)
- + with Resampling (Oversampling, Undersampling, Under+oversampling)
+ + with Resampling (Oversampling, Undersampling)
 
 
 Step 5. Validation
