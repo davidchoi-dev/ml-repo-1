@@ -97,7 +97,7 @@ Step 6. Conclusion
 2. Draw.io
 
 
-## learning materials
+## Reference
 
 1. Terms of Socar : https://www.socar.kr/terms
 2. Hands-On Machine Learning with Scikit-Learn and TensorFlow / Aurélien Géron
