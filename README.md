@@ -8,7 +8,7 @@
 
 Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
-  <A href="https://drive.google.com/file/d/1LD09arvFxmVrNI5tDJ2nc9Ra7MLVEpup/view?usp=sharing"> Reference Slide </A>
+  <A href="https://drive.google.com/file/d/1LD09arvFxmVrNI5tDJ2nc9Ra7MLVEpup/view?usp=sharing"> Presentation Slide </A>
 <P>
 
 ## Introduction
