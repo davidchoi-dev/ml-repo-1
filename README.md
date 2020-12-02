@@ -1,6 +1,9 @@
+![SOCAR_LOGO_RGB_로고타입](https://user-images.githubusercontent.com/68367214/100833111-a019d980-34ac-11eb-9810-8bcbfed45e2b.png)
+
+
 # Socar Fraud Detection Project
 
-![SOCAR_LOGO_RGB_로고타입](https://user-images.githubusercontent.com/68367214/100833111-a019d980-34ac-11eb-9810-8bcbfed45e2b.png)
+
 
 Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
