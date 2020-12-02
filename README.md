@@ -1,7 +1,5 @@
 ![SOCAR_LOGO_RGB_로고타입](https://user-images.githubusercontent.com/68367214/100833111-a019d980-34ac-11eb-9810-8bcbfed45e2b.png)
 
-[SOCAR_FINAL.pdf](https://github.com/dss-14th/ml-repo-1/files/5627287/SOCAR_FINAL.pdf)
-
 
 
 # Socar Fraud Detection Project
