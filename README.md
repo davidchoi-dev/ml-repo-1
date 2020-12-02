@@ -41,7 +41,7 @@ Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 ## Details
 
-Step 1. Baseline Set 
+Step 1. Baseline Set (with Raw Data)
 
 Original Models
 - Logistic Regression
@@ -53,35 +53,34 @@ Extended Models
 - BalancedRandomForestClassifier
 - RUSBoostClassifier
 
- + with Raw Data
 
 
 Step 2. Preprocessing
 
- + with One-Hot-Encoding
- + with Outlier Removal
- + with Train/Test Split
+- One-Hot-Encoding
+- Outlier Removal
+- Scaling : RobustScaler, MinMaxScaler
+- Train/Test Split
+
 
 
 Step 3. Hyperparameter Tuning 
 
- + with Gridsearch (Recall Priority)
+ + Gridsearch (Recall Priority)
 
 
 Step 4. Imbalanced Data Tuning
 
- + with RobustScaler (For Overfitting)
- + with Resampling (Oversampling, Undersampling)
+ + Resampling (Oversampling, Undersampling)
 
 
 Step 5. Validation
 
- + with Resampling
- + with StratifiedKFold
+ + Easy Ensemble Classifier with StratifiedKFold
 
  
 Step 6. Conclusion
-- How to set Benchmarks
+- Limitation
 - Interpretation
 
 
@@ -93,5 +92,5 @@ Step 6. Conclusion
 
 ## learning materials
 
-1. Terms Of Socar : https://www.socar.kr/terms
+1. Terms of Socar : https://www.socar.kr/terms
 2. Hands-On Machine Learning with Scikit-Learn and TensorFlow / Aurélien Géron
