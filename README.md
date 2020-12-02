@@ -1,7 +1,6 @@
 # Socar Fraud Detection Project
 
-Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
-
+Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 
 ## Goals
