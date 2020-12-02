@@ -7,15 +7,17 @@ Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 ## Goals
 ![Socar_project-Page-4 (3)](https://user-images.githubusercontent.com/68367214/98901948-08058180-24f8-11eb-97b2-fa69c826d7b4.png)
 
-* Build Fraud Detection ML Model based on Past Data-set.
+* Build Fraud Detection ML Model for SOCAR (dataset provider).
 
 
-## Execution
+## Procedure
 
 1. EDA 
-2. Data Preprocess 
-3. Build & Train Model
-4. Model Validation
+2. Pre-processing 1
+3. Modeling 1
+4. Pre-processing 2
+5. Modeling 2
+4. Validation
 5. Conclusion
 
 
@@ -23,15 +25,12 @@ Teams: 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 ![그림1](https://user-images.githubusercontent.com/68367214/98902177-86faba00-24f8-11eb-92cc-5edd15d121ab.png)
 
-
 1. LogisticRegression
 2. SupportVectorMachine
 3. RandomForest
-
 4. EasyEnsembleClassifier
 5. BalancedRandomForestClassifier
 6. RUSBoostClassifier
-
 
 
 ## Details
@@ -50,10 +49,11 @@ Extended Models
 
  + with Raw Data
 
-Step 2. Preprocess
 
+Step 2. Preprocessing
 
  + with One-Hot-Encoding
+ + with Outlier Removal
  + with Train/Test Split
 
 
@@ -70,16 +70,6 @@ Step 4. Imbalanced Data Tuning
 
 Step 5. Validation
 
-Original Models
-- Logistic Regression
-- SupportVectorMachine
-- RandomForestClassifier
-
-Extended Models
-- EasyEnsembleClassifier
-- BalancedRandomForestClassifier
-- RUSBoostClassifier
-
  + with Resampling
  + with StratifiedKFold
 
@@ -88,11 +78,11 @@ Step 6. Conclusion
 - How to set Benchmarks
 - Interpretation
 
+
 ## Presentation Resourses
 
 1. Sweetviz
 2. Draw.io
-3. Airdrop
 
 
 ## learning materials
