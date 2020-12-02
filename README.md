@@ -1,4 +1,4 @@
-![SOCAR_LOGO_RGB_로고타입](https://user-images.githubusercontent.com/68367214/100833111-a019d980-34ac-11eb-9810-8bcbfed45e2b.png)
+![SOCAR_LOGO_RGB_시그니처로고](https://user-images.githubusercontent.com/68367214/100838698-40283080-34b6-11eb-8467-9351b5bbbca5.png)
 
 
 
@@ -10,6 +10,10 @@ Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
   <A href="https://drive.google.com/file/d/1LD09arvFxmVrNI5tDJ2nc9Ra7MLVEpup/view?usp=sharing"> Reference Slide </A>
 <P>
+
+## Introduction
+
+
 
 
 ## Goals
