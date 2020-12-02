@@ -8,7 +8,7 @@
 
 Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
-  <A href="SOCAR_FINAL.html"> Reference </A>
+  <A href="SOCAR_FINAL.html"> Reference Slide </A>
 <P>
 
 
