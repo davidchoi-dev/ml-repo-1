@@ -8,7 +8,7 @@
 
 Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
-  <A href="SOCAR_FINAL.html"> PPT파일 링크 </A>
+  <A href="SOCAR_FINAL.html"> Reference </A>
 <P>
 
 
@@ -31,12 +31,6 @@ Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 ![그림1](https://user-images.githubusercontent.com/68367214/98902177-86faba00-24f8-11eb-92cc-5edd15d121ab.png)
 
-1. LogisticRegression
-2. SupportVectorMachine
-3. RandomForest
-4. EasyEnsembleClassifier
-5. BalancedRandomForestClassifier
-6. RUSBoostClassifier
 
 
 ## Details
