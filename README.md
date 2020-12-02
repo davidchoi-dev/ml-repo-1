@@ -12,10 +12,8 @@ Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 ## Procedure
 
 1. EDA 
-2. Pre-processing 1
-3. Modeling 1
-4. Pre-processing 2
-5. Modeling 2
+2. Pre-processing
+3. Modeling
 4. Validation
 5. Conclusion
 
