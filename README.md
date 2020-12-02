@@ -18,9 +18,10 @@ Build Fraud Detection ML Model for SOCAR (dataset provider)
 
 
 
-## Procedure
+## Architecture
 
 ![Socar_project-Page-4 (3)](https://user-images.githubusercontent.com/68367214/98901948-08058180-24f8-11eb-97b2-fa69c826d7b4.png)
+
 
 
 ## Procedure
