@@ -13,6 +13,7 @@ Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
 ## Introduction
 
+Incorporated in 2011, SOCAR has become the largest car-sharing service provider in South Korea. Operating about 12K vehicles, SOCAR has over 5.8 million accumulated users, 200K of whom use the service each month. While strong demand growth for SOCAR service is expected to continue in the foreseeable future, there are growing concerns with an increasing number of insurance fraud cases. The purpose of this project is to build an optimal machine learning model for fraud detection with our focus on the recall score for model evaluation. The dataset is provided by SOCAR but some information in the attached presentation is hidden as requested by the data provider for security reasons. 
 
 
 
