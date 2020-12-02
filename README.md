@@ -7,6 +7,9 @@
 
 Members : 이진서, 임상우, 김재욱 (FastCampus Datascience School 14th)
 
+  <A href="SOCAR_FINAL.html"> PPT파일 링크 </A>
+<P>
+
 
 ## Goals
 ![Socar_project-Page-4 (3)](https://user-images.githubusercontent.com/68367214/98901948-08058180-24f8-11eb-97b2-fa69c826d7b4.png)
