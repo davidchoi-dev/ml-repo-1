@@ -24,6 +24,12 @@ Build Fraud Detection ML Model for SOCAR (dataset provider)
 
 
 
+## Machine Learning Model
+
+![그림1](https://user-images.githubusercontent.com/68367214/98902177-86faba00-24f8-11eb-92cc-5edd15d121ab.png)
+
+
+
 ## Procedure
 
 1. EDA 
@@ -31,11 +37,6 @@ Build Fraud Detection ML Model for SOCAR (dataset provider)
 3. Modeling
 4. Validation
 5. Conclusion
-
-
-## Machine Learning Model
-
-![그림1](https://user-images.githubusercontent.com/68367214/98902177-86faba00-24f8-11eb-92cc-5edd15d121ab.png)
 
 
 
