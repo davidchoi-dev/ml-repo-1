@@ -17,11 +17,6 @@ Incorporated in 2011, SOCAR has become the largest car-sharing service provider 
 
 
 
-## Goals
-
-Build Fraud Detection ML Model for SOCAR (dataset provider)
-
-
 
 ## Architecture
 
